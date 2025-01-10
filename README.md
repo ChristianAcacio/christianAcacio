@@ -6,7 +6,7 @@ Hi, I'm Christian and I'm twenty one years old. My goal on this platform is to l
 - 📖 - Atualmente estudando: React | Nextjs | Strapi | TypeScript
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5387a828a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christianacacio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5387a828a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-acacio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:christian4nasc@gmail.com)
 
 ## Estatísticas do GitHub
