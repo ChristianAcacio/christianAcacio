@@ -3,7 +3,7 @@ Olá, meu nome é Christian e tenho vinte e um anos, meu objetivo aqui na plataf
 Hi, I'm Christian and I'm twenty one years old. My goal on this platform is to land my first job as a developer. I'll be sharing my initial projects here, hoping to track my progress in the future. This is also where I share my current learning journey! If you'd like to get in touch or learn more about me, check out the links attached to my profile!
 
 - 🎓 - No 4° Semestre do curso de Sistemas da Informação.
-- 📖 - Atualmente estudando: React | Nextjs | Strapi | TypeScript
+- 📖 - Atualmente estudando: C# | POO | Banco de Dados | Consumo de API
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5387a828a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-acacio/)
