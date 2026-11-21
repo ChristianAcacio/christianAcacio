@@ -1,9 +1,18 @@
-Olá, meu nome é Christian e tenho vinte e um anos, meu objetivo aqui na plataforma é conseguir meu primeiro emprego como desenvolvedor. Vou postar aqui meus primeiros projetos, para que no futuro possa ver a minha evolução, assim também compartilho o meu aprendizado do momento !!! Se quiser entrar em contato ou quiser conhecer um pouco mais de mim, acesse os links anexados no perfil !!!
+Hi, I'm Christian 👋
 
-Hi, I'm Christian and I'm twenty one years old. My goal on this platform is to land my first job as a developer. I'll be sharing my initial projects here, hoping to track my progress in the future. This is also where I share my current learning journey! If you'd like to get in touch or learn more about me, check out the links attached to my profile!
+Software Developer in Training | Information Systems Student
 
-- 🎓 - No 4° Semestre do curso de Sistemas da Informação.
-- 📖 - Atualmente estudando: C# | POO | Banco de Dados | Consumo de API
+I'm an Information Systems student passionate about software development. I use GitHub to share my projects, apply what I learn, and track my growth as a developer.
+
+I'm currently focused on improving my programming skills, building personal and academic projects, and working toward my first professional opportunity in software development.
+
+If you'd like to get in touch or learn more about me, check out the links attached to my profile!
+
+- 🎓 Information Systems student — 4th semester.
+- 💻 Focused on software development.
+- 🧠 Currently learning C#, OOP, Databases, and API integration.
+- 🚀 Building personal and academic projects.
+- 🎯 Seeking my first opportunity as a software developer.
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-5387a828a?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-acacio/)
