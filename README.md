@@ -25,5 +25,7 @@ If you'd like to get in touch or learn more about me, check out the links attach
   </a>
 </div>
 
+Always learning, building, and improving.
+
 🇧🇷 🇺🇸
 
