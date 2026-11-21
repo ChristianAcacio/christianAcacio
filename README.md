@@ -8,7 +8,7 @@ I'm currently focused on improving my programming skills, building personal and 
 
 If you'd like to get in touch or learn more about me, check out the links attached to my profile!
 
-- 🎓 Information Systems student — 4th semester.
+- 🎓 Information Systems student — 6th semester.
 - 💻 Focused on software development.
 - 🧠 Currently learning C#, OOP, Databases, and API integration.
 - 🚀 Building personal and academic projects.
